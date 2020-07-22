@@ -1,0 +1,22 @@
+{
+  "name": "outacontrolbot",
+  "version": "1.0.0",
+  "description": "OutaControlBot",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etex99/OutaControlBot.git"
+  },
+  "author": "Etex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Etex99/OutaControlBot/issues"
+  },
+  "homepage": "https://github.com/Etex99/OutaControlBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
