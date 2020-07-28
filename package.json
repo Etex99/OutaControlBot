@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Etex99/OutaControlBot#readme",
   "dependencies": {
+    "@types/socket.io": "^2.1.10",
     "discord.js": "^12.2.0"
   }
 }

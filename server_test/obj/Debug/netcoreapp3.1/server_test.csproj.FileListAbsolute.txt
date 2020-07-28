@@ -1,0 +1,13 @@
+D:\Typescript\OutaControlBot\server_test\bin\Debug\netcoreapp3.1\server_test.exe
+D:\Typescript\OutaControlBot\server_test\bin\Debug\netcoreapp3.1\server_test.deps.json
+D:\Typescript\OutaControlBot\server_test\bin\Debug\netcoreapp3.1\server_test.runtimeconfig.json
+D:\Typescript\OutaControlBot\server_test\bin\Debug\netcoreapp3.1\server_test.runtimeconfig.dev.json
+D:\Typescript\OutaControlBot\server_test\bin\Debug\netcoreapp3.1\server_test.dll
+D:\Typescript\OutaControlBot\server_test\bin\Debug\netcoreapp3.1\server_test.pdb
+D:\Typescript\OutaControlBot\server_test\obj\Debug\netcoreapp3.1\server_test.csprojAssemblyReference.cache
+D:\Typescript\OutaControlBot\server_test\obj\Debug\netcoreapp3.1\server_test.AssemblyInfoInputs.cache
+D:\Typescript\OutaControlBot\server_test\obj\Debug\netcoreapp3.1\server_test.AssemblyInfo.cs
+D:\Typescript\OutaControlBot\server_test\obj\Debug\netcoreapp3.1\server_test.csproj.CoreCompileInputs.cache
+D:\Typescript\OutaControlBot\server_test\obj\Debug\netcoreapp3.1\server_test.dll
+D:\Typescript\OutaControlBot\server_test\obj\Debug\netcoreapp3.1\server_test.pdb
+D:\Typescript\OutaControlBot\server_test\obj\Debug\netcoreapp3.1\server_test.genruntimeconfig.cache
